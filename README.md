@@ -9,3 +9,6 @@ For each exercise are included:
 
 If you are interested in the topic of decomposition, here you can find the PhD thesis by Vladimir Canudas-Romo: https://pure.rug.nl/ws/files/10068144/thesis.pdf. It is an interesting, if challenging, read.
 
+Here you can find the paper for Day 1's bonus exercise: https://link.springer.com/article/10.1186/s41118-022-00170-w
+
+
